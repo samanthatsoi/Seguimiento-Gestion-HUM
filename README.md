@@ -26,18 +26,18 @@ Para ejecutarlo:
 
 4. Haz click en 'Seguimiento-Gestion-HUM.ipynb'. Una otra pagina web va a abrir con el enalce 'http://localhost:8888/notebooks/Seguimiento-Gestion-HUM.ipynb'.
 
-![Alt text](/READMEiamges/jupyterhome.png?raw=true "Jupyter Home")
+![jupyterhome](https://user-images.githubusercontent.com/8455299/57087836-eefafe00-6cce-11e9-884a-7b3fe33e86ef.png)
 
 5. En tu Terminal, tipea 'pwd' (o 'cwd' en tu Windows/PC Console). Copia el resultado.
 
-![Alt text](/READMEiamges/terminal.png?raw=true "Terminal")
+![terminal](https://user-images.githubusercontent.com/8455299/57087852-fa4e2980-6cce-11e9-9120-ee7565984d64.png)
 
 6. Pégalo en la primera línea después "currentdirectory =".
 
-![Alt text](/READMEiamges/pwd.png?raw=true "Current Directory")
+![pwd](https://user-images.githubusercontent.com/8455299/57087804-dee31e80-6cce-11e9-8f05-731cf9d7aba5.png)
 
 5. Encuentra y haz click en 'Cell' en la cima de la página.
 
 6. Elige 'Run All' de las siguientes opcciones. Va a tomar cinco a diez minutos hasta está lista.
 
-![Alt text](/READMEiamges/runall.png?raw=true "Cell>Run All")
+![runall](https://user-images.githubusercontent.com/8455299/57087732-b5c28e00-6cce-11e9-83d4-4f2c35656d2d.png)
