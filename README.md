@@ -15,12 +15,29 @@ Antes de ejecutarlo:
 4. Asegúrate que tiene el Jupyter Notebook y Python en tu computadora. Si no los tienes, instálalos con está enlace: https://jupyter.org/install
 
 Para ejecutarlo:
-1. Abre la Terminal o Console en tu Mac o Windows.
+1. Abre la Terminal en tu Mac (o Console en tu Windows/PC).
+
 2. Entra la carpeta donde los archivos (Seguimiento-Gestion-HUM.ipynb, Reporte-Seguimiento-Gestion-HUM.xlsx, preguntas_categoria.xlsx) se ubican.
 	2a. Usa 'cd <nombre_de_carpeta>' a entrar una carpeta.
 	2b. Usa 'cd ..' a regresar a la última carpeta.
-	2c. Puede encontrar tu carpeta actual tipeando 'pwd' en tu Terminal.
+	2c. Puede encontrar tu carpeta actual tipeando 'pwd' en tu Terminal (en Windows/PC, el comando es 'cwd').
+
 3. Cuando has llegado a la carpeta donde los archivos se ubican, escribe 'jupyter notebook'. Una pagina web va a abrir con el enlace 'http://localhost:8888/tree'.
+
 4. Haz click en 'Seguimiento-Gestion-HUM.ipynb'. Una otra pagina web va a abrir con el enalce 'http://localhost:8888/notebooks/Seguimiento-Gestion-HUM.ipynb'.
+
+![Alt text](/READMEiamges/jupyterhome.png?raw=true "Jupyter Home")
+
+5. En tu Terminal, tipea 'pwd' (o 'cwd' en tu Windows/PC Console). Copia el resultado.
+
+![Alt text](/READMEiamges/terminal.png?raw=true "Terminal")
+
+6. Pégalo en la primera línea después "currentdirectory =".
+
+![Alt text](/READMEiamges/pwd.png?raw=true "Current Directory")
+
 5. Encuentra y haz click en 'Cell' en la cima de la página.
+
 6. Elige 'Run All' de las siguientes opcciones. Va a tomar cinco a diez minutos hasta está lista.
+
+![Alt text](/READMEiamges/runall.png?raw=true "Cell>Run All")
