@@ -7,7 +7,7 @@ Fecha de la última actualización: 06/06/2019 <br/>
 
 
 #### Resumen: <br />
-A naliza 'PREGUNTA HUM' y 'PREGUNTA ANTIGUAS' en el archivo "Reporte-Seguimiento-Gestion-HUM.xlsx" por examinar la columna "Pregunta" y "Título". <br />
+Analiza 'PREGUNTA HUM' y 'PREGUNTA ANTIGUAS' en el archivo "Reporte-Seguimiento-Gestion-HUM.xlsx" por examinar la columna "Pregunta" y "Título". <br />
 
 
 <br />
@@ -20,11 +20,12 @@ Un sample está disponible: https://nbviewer.jupyter.org/github/samanthatsoi/Seg
 
 A correr con el dato y los archivos más actualizados, sigue estas instrucciones.
 
-#### Antes de ejecutarlo: <br />
-1. Asegúrate tener los archivos "Reporte-Seguimiento-Gestion-HUM.xlsx" y "preguntas_categoria.xlsx" y son actualizados. Los nombres del archivos deben ser exactamente escribido como arriba. <br />
-2. Asegúrate que el "Reporte-Seguimiento-Gestion-HUM.xlsx" solo tiene las fechas en la columna "Fecha pregunta", debe ser formateado como 'D/MM/YYYY' o 'DD/MM/YYYY'. <br />
-3. Asegúrate que los archivos "Seguimiento-Gestion-HUM.ipynb", "Reporte-Seguimiento-Gestion-HUM.xlsx" y "preguntas_categoria.xlsx" son en la misma carpeta. <br />
-4. Asegúrate que el Jupyter Notebook y el Python ya están cargados en la computadora. Si ellos no están cargados, instálalos con está enlace: https://jupyter.org/install <br />
+#### Antes de ejecutarlo: 
+<br />
+1. Asegúrate de que tengas los archivos "Reporte-Seguimiento-Gestion-HUM.xlsx" y "preguntas_categoria.xlsx" y son actualizados. Los nombres del archivos deben ser exactamente escribido como arriba. <br />
+2. Asegúrate de que el "Reporte-Seguimiento-Gestion-HUM.xlsx" solo tenga las fechas en la columna "Fecha pregunta", debe ser formateado como 'D/MM/YYYY' o 'DD/MM/YYYY'. <br />
+3. Asegúrate de que los archivos "Seguimiento-Gestion-HUM.ipynb", "Reporte-Seguimiento-Gestion-HUM.xlsx" y "preguntas_categoria.xlsx" sean en la misma carpeta. <br />
+4. Asegúrate de que el Jupyter Notebook y el Python ya estén cargados en la computadora. Si no, cárgalos con esta enlace: https://jupyter.org/install <br />
 <br />
 <br />
 #### Para ejecutarlo: <br />
